@@ -41,7 +41,7 @@
 		977098331B4C92A3009EC7FC = {
 			isa = PBXGroup;
 			children = (
-				9770983E1B4C92A3009EC7FC /* Compute Parity */,
+				9770983E1B4C92A3009EC7FC /* Compute Parity Brute Force */,
 				9770983D1B4C92A3009EC7FC /* Products */,
 			);
 			sourceTree = "<group>";
@@ -54,11 +54,12 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		9770983E1B4C92A3009EC7FC /* Compute Parity */ = {
+		9770983E1B4C92A3009EC7FC /* Compute Parity Brute Force */ = {
 			isa = PBXGroup;
 			children = (
 				9770983F1B4C92A3009EC7FC /* main.cpp */,
 			);
+			name = "Compute Parity Brute Force";
 			path = "Compute Parity";
 			sourceTree = "<group>";
 		};
