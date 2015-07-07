@@ -22,9 +22,7 @@ bool parity(int x) {
 int main(int argc, const char * argv[]) {
 	
 	parity(1);
-	
 	parity(10);
-	
 	parity(6);
 	
 }
