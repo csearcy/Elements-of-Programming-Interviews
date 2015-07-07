@@ -8,8 +8,23 @@
 
 #include <iostream>
 
+using namespace std;
+
+bool parity(int x) {
+	bool result = false;
+	while (x) {
+		result ^= x&1;
+		x>>1;
+	}
+	return result;
+}
+
 int main(int argc, const char * argv[]) {
-	// insert code here...
-	std::cout << "Hello, World!\n";
-    return 0;
+	
+	parity(1);
+	
+	parity(10);
+	
+	parity(6);
+	
 }
