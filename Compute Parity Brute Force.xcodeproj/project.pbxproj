@@ -23,7 +23,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		9770983C1B4C92A3009EC7FC /* Compute Parity */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Compute Parity"; sourceTree = BUILT_PRODUCTS_DIR; };
+		9770983C1B4C92A3009EC7FC /* Compute Parity Brute Force */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Compute Parity Brute Force"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9770983F1B4C92A3009EC7FC /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -49,7 +49,7 @@
 		9770983D1B4C92A3009EC7FC /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				9770983C1B4C92A3009EC7FC /* Compute Parity */,
+				9770983C1B4C92A3009EC7FC /* Compute Parity Brute Force */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -65,9 +65,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		9770983B1B4C92A3009EC7FC /* Compute Parity */ = {
+		9770983B1B4C92A3009EC7FC /* Compute Parity Brute Force */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 977098431B4C92A3009EC7FC /* Build configuration list for PBXNativeTarget "Compute Parity" */;
+			buildConfigurationList = 977098431B4C92A3009EC7FC /* Build configuration list for PBXNativeTarget "Compute Parity Brute Force" */;
 			buildPhases = (
 				977098381B4C92A3009EC7FC /* Sources */,
 				977098391B4C92A3009EC7FC /* Frameworks */,
@@ -77,9 +77,9 @@
 			);
 			dependencies = (
 			);
-			name = "Compute Parity";
+			name = "Compute Parity Brute Force";
 			productName = "Compute Parity";
-			productReference = 9770983C1B4C92A3009EC7FC /* Compute Parity */;
+			productReference = 9770983C1B4C92A3009EC7FC /* Compute Parity Brute Force */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
@@ -96,7 +96,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 977098371B4C92A3009EC7FC /* Build configuration list for PBXProject "Compute Parity" */;
+			buildConfigurationList = 977098371B4C92A3009EC7FC /* Build configuration list for PBXProject "Compute Parity Brute Force" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -108,7 +108,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				9770983B1B4C92A3009EC7FC /* Compute Parity */,
+				9770983B1B4C92A3009EC7FC /* Compute Parity Brute Force */,
 			);
 		};
 /* End PBXProject section */
@@ -205,21 +205,21 @@
 		977098441B4C92A3009EC7FC /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Compute Parity Brute Force";
 			};
 			name = Debug;
 		};
 		977098451B4C92A3009EC7FC /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Compute Parity Brute Force";
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		977098371B4C92A3009EC7FC /* Build configuration list for PBXProject "Compute Parity" */ = {
+		977098371B4C92A3009EC7FC /* Build configuration list for PBXProject "Compute Parity Brute Force" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				977098411B4C92A3009EC7FC /* Debug */,
@@ -228,7 +228,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		977098431B4C92A3009EC7FC /* Build configuration list for PBXNativeTarget "Compute Parity" */ = {
+		977098431B4C92A3009EC7FC /* Build configuration list for PBXNativeTarget "Compute Parity Brute Force" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				977098441B4C92A3009EC7FC /* Debug */,
